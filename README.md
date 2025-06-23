@@ -1,7 +1,9 @@
-<!-- Banner Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Manish+Kaushik;Frontend+and+MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Manish+Kaushik;Frontend+and+MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-<!-- About Section -->
+<!-- About Me Section -->
 ## 🙋‍♂️ About Me  
 
 - 🔭 Currently working on **Personal Web Projects and MERN stack applications**  
@@ -18,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Manish%20Kaushik-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="mailto:boxofmanishkaushik@gmail.com">
-  <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://twitter.com/yourhandle" target="blank">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -38,11 +40,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkaushik-dev&show_icons=true&theme=gradient" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish-Kaushik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkaushik-dev&theme=gradient" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-Kaushik&theme=tokyonight&hide_border=true" alt="streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkaushik-dev&layout=compact&theme=gradient" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Kaushik&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 </p>
 
 ---
@@ -50,17 +52,17 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishkaushik-dev&theme=gruvbox&margin-w=10&no-frame=true" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manish-Kaushik&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies">
 </p>
 
 ---
 
 ## 📌 Current Focus  
 
-- 🚀 MERN Stack Projects  
-- 🎯 DSA Revision  
-- 🔥 Open Source Contributions  
-- 🌐 Real-World Apps & Dev Community Collaboration  
+🚀 MERN Stack Projects  
+🎯 DSA Revision  
+🔥 Open Source Contributions  
+🌐 Real-World Apps & Dev Community Collaboration  
 
 ---
 
@@ -85,7 +87,7 @@ _**Open for Collaboration | Freelance | Learning Together 🚀**_
 ## 🔗 Quick Links  
 
 - 🔹 [My LinkedIn](https://linkedin.com/in/manish-kaushik-dev-mk7088)
-- 🔹 [GitHub Profile](https://github.com/manishkaushik-dev)
+- 🔹 [GitHub Profile](https://github.com/Manish-Kaushik)
 
 ---
 
