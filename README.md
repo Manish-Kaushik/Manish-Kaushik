@@ -1,74 +1,52 @@
 <h1 align="center">Hi 👋, I'm Manish Kaushik</h1>
-<h3 align="center">🚀 A Passionate Frontend & MERN Stack Developer 🚀</h3>
+<h3 align="center">A passionate Frontendweb developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manishkaushik-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourusername" alt="profile-trophy" /></a> </p>
 
-## 🚀 About Me
+- 🔭 I’m currently working on **personal web projects**
 
-- 🔭 I’m currently working on **Personal Web Projects and MERN stack applications**
-- 🌱 Actively learning **ReactJS, NodeJS, MongoDB, ExpressJS, and Advanced JavaScript**
-- 👨‍💻 Love building intuitive, dynamic UIs and backend APIs
-- 💬 Ask me about **C++, JavaScript, PHP, React, and Web Development**
-- 📫 Reach me at: **[boxofmanishkaushik@gmail.com](mailto:boxofmanishkaushik@gmail.com)**
+- 🌱 I’m currently learning **ReactJS, Backend Development, and advanced JavaScript**
 
----
+- 💬 Ask me about **C++, JavaScript, PHP, React, and web development in general.**
 
-## 🌐 Connect with me:
+- 📫 How to reach me: [boxofmanishkaushik@gmail.com](mailto:boxofmanishkaushik@gmail.com)
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manish-kaushik-dev-mk7088" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/>
+<a href="https://linkedin.com/in/manish-kaushik-a21b0824a" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" />
 </a>
 <a href="https://twitter.com/yourhandle" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="50" />
 </a>
 </p>
 
----
-
-## 🛠️ Languages & Tools:
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,cpp,bootstrap,vscode,git,github" alt="skills" />
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs-code" width="60" height="60"/>
+</a>
 </p>
-
----
-
-## 🏆 GitHub Trophies:
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manishkaushik-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkaushik-dev&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkaushik-dev&theme=radical" alt="streak-stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkaushik-dev&layout=compact&theme=radical" alt="top-langs" />
-</p>
-
----
-
-## 📌 Current Focus:
-
-🚀 MERN Stack Projects | 🎯 DSA Revision | 🔥 Open Source Contributions  
-✨ Building Real-World Apps, refining problem-solving skills & collaborating with dev communities.
-
----
-
-*Made with ❤️ by [Manish Kaushik](https://linkedin.com/in/manish-kaushik-dev-mk7088)*
